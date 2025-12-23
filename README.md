@@ -6,6 +6,16 @@ Windows 11 用のポータブルなマイクミュート切替ツールです。
 
 ---
 
+## スクリーンショット
+
+<img width="97" height="85" alt="MicMuteHotkey-Screenshot-04" src="https://github.com/user-attachments/assets/ec3b58b3-1d2a-47a9-949f-2e104e207f40" />
+<img width="102" height="85" alt="MicMuteHotkey-Screenshot-05" src="https://github.com/user-attachments/assets/008c8049-d82a-441e-848a-0c6ed2060aa5" />
+<img width="243" height="141" alt="MicMuteHotkey-Screenshot-06" src="https://github.com/user-attachments/assets/cce2740b-645b-4106-918e-a1b90bbf6fbb" />
+<img width="420" height="290" alt="MicMuteHotkey-Screenshot-07" src="https://github.com/user-attachments/assets/0f01f5b8-7d4f-40a2-bc45-ff7849b14ef3" />
+
+
+---
+
 ## 特徴
 
 - インストール不要（ポータブル）
