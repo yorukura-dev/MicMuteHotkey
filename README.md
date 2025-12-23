@@ -40,7 +40,7 @@ Windows 11 用のポータブルなマイクミュート切替ツールです。
 
 ## ダウンロード
 
-[Releases](https://github.com/yorukura-dev/MicMuteHotkey/releases)から**zip**ファイルをダウンロードしてください
+[Releases](https://github.com/yorukura-dev/MicMuteHotkey/releases)から**zipファイル**をダウンロードしてください
 
 ---
 
